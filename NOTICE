@@ -1,0 +1,15 @@
+SpacemiT humanoid_qinglong Component
+Copyright 2026 SpacemiT (Hangzhou) Technology Co. Ltd.
+
+This product includes software developed at
+SpacemiT (Hangzhou) Technology Co. Ltd. (https://www.spacemit.com/).
+
+---------------------------------------------------------------------------
+Third-party Software Notices:
+---------------------------------------------------------------------------
+
+This product contains portions of the following third-party software:
+
+1. loong_sim_sdk_release (https://github.com/loongOpen/loong_sim_sdk_release)
+   Copyright (c) 2025 人形机器人（上海）有限公司
+   Licensed under the MIT License.
