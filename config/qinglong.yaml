@@ -62,7 +62,6 @@ simulation:
     # 悬挂力参数（青龙 86kg，需要更强的悬挂力）
     assist_kp: 1500
     assist_kd: 400
-    assist_gravity_compensation: 800  # 额外恒定向上力（N），接近抵消重力 845N
 
 # ============================================================
 # Behavior Manager 模块参数（FSM 状态机控制）
