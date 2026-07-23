@@ -97,6 +97,11 @@ rl_policy:
     policies:
       motion:
         model_path: "policy/motion/policy_3052.onnx"
+        model_io:
+          inputs:
+            - {name: observations, source: observation}
+          outputs:
+            - {name: actions, target: action}
         # action_scale=1.0 表示策略输出直接作为相对于 rl_default_pos 的偏移
         action_scale: 1.0
         infer_decimation: 10
